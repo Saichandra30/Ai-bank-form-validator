@@ -36,10 +36,10 @@ echo   SUCCESS!
 echo ========================================
 echo.
 echo Check your repository:
-echo https://github.com/Shravinya/Agentic-Rag
+echo https://github.com/Saichandra30/Ai-bank-form-validator
 echo.
 echo Check CI/CD pipeline:
-echo https://github.com/Shravinya/Agentic-Rag/actions
+echo https://github.com/Saichandra30/Ai-bank-form-validator/actions
 echo.
 
 pause
